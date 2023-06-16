@@ -1,0 +1,14 @@
+# misc files
+.DS_store
+.env
+*.log
+.cache/
+
+#common proud directories
+/nuild
+/dist
+
+#common test directories
+/test
+/testing
+/coverage 
